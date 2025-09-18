@@ -5,7 +5,7 @@ Amir Gharibipour
 Djessica Ndjiongue
 Amine Mefti
 Sukhdarshan Singh
-Zara Grigoryan
+Zara Zaruhi Grigoryan
 Hala Abdulsamad
 Josh Hollis
 Djess Ndjiongue
