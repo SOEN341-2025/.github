@@ -3,11 +3,11 @@
 ## Team Members:
 Amir Gharibipour
 Djessica Ndjiongue
-Amine Mefti
+Amine Mefti | ID: 40281614 | User: AMef2
 Sukhdarshan Singh
 Zara Zaruhi Grigoryan
 Hala Abdulsamad | ID: 40296853 | User: hala842
-Josh Hollis
+Odinakachukwu Obiudoh
 Djess Ndjiongue
 David Cronin
 
