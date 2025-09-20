@@ -6,8 +6,8 @@ Djessica Ndjiongue
 Amine Mefti | ID: 40281614 | User: AMef2
 Sukhdarshan Singh
 Zara Zaruhi Grigoryan
-Hala Abdulsamad
-Josh Hollis
+Hala Abdulsamad | ID: 40296853 | User: hala842
+Odinakachukwu Obiudoh
 Djess Ndjiongue
 David Cronin
 
