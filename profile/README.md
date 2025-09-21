@@ -16,4 +16,5 @@ This is to be a Campus Events & Ticketing Web Application designed to help stude
 
 
 ## Technololgies
-
+Backend : Express.js
+Frontend : React.js
