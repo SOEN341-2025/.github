@@ -1,7 +1,7 @@
 # SOEN341 - Fall 2025
 # Group: SM_2
 ## Team Members:
-Amir Gharibipour
+Amirmohammad Gharibipour | ID: 40241806 | User: Rima1881
 Djessica Ndjiongue
 Amine Mefti | ID: 40281614 | User: AMef2
 Sukhdarshan Singh
