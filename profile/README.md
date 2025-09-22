@@ -2,13 +2,12 @@
 # Group: SM_2
 ## Team Members:
 Amirmohammad Gharibipour | ID: 40241806 | User: Rima1881
-Djessica Ndjiongue
 Amine Mefti | ID: 40281614 | User: AMef2
 Sukhdarshan Singh
 Zara Zaruhi Grigoryan |ID: 40299515 | User: Zaroohi
 Hala Abdulsamad | ID: 40296853 | User: hala842
 Odinakachukwu Obiudoh
-Djess Ndjiongue
+Djess Ndjiongue | ID: 40263245 | User : DessiTech
 David Cronin | ID: 28840024 | User: Fast Mona
 
 ## About the project
